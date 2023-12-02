@@ -12,10 +12,9 @@
 
 ## Main Repo
 https://github.com/sherwinbahmani/4dfy  <br />
-https://sherwinbahmani.github.io/4dfy/paper.pdf  <br />
 
 ## Paper
-https://sherwinbahmani.github.io/4dfy/paper.pdf
+https://arxiv.org/abs/2311.17984
 
 ## Page
 https://sherwinbahmani.github.io/4dfy/
